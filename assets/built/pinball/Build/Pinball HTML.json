@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "pinball project",
+"dataUrl": "Pinball HTML.data.unityweb",
+"asmCodeUrl": "Pinball HTML.asm.code.unityweb",
+"asmMemoryUrl": "Pinball HTML.asm.memory.unityweb",
+"asmFrameworkUrl": "Pinball HTML.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
